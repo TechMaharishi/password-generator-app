@@ -10,8 +10,6 @@ Welcome to the Password Generator project! This application allows users to gene
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Features
@@ -50,6 +48,14 @@ To run the Password Generator application:
 
 ```bash
 npm run dev
+```
+
+# Author 
+
+Vishal Kumar
+
+
+
 
 
 
